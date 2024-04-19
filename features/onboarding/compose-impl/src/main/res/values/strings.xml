@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_conversation_based_learning_title">Confidence in your words</string>
+    <string name="onboarding_conversation_based_learning_description">With conversation-based learning, you\'ll be talking from lesson one</string>
+    <string name="onboarding_anytime_learning_title">Take your time to learn</string>
+    <string name="onboarding_anytime_learning_description">Develop a habit of learning and make it a part of your daily routine</string>
+    <string name="onboarding_variety_learning_title">The lessons you need to learn</string>
+    <string name="onboarding_variety_learning_description">Using a variety of learning styles to learn and retain</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_more">More</string>
+    <string name="onboarding_log_in">Login</string>
+    <string name="onboarding_skip">Skip onboarding</string>
+</resources>

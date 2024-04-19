@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.LanguageApp" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:colorPrimary">#410FA3</item>
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+
+    <style name="Theme.LanguageApp.Splash">
+        <item name="android:statusBarColor">?android:colorPrimary</item>
+        <item name="android:navigationBarColor">?android:colorPrimary</item>
+        <item name="android:windowBackground">@drawable/bg_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.LanguageApp</item>
+    </style>
+</resources>

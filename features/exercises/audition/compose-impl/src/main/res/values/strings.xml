@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audition_title">Listening</string>
+    <string name="audition_description">Please hold the button and say this word. Our service will check your pronunciation</string>
+    <string name="audition_check_speech">Check my speech</string>
+    <string name="audition_listening">Listening…</string>
+    <string name="audition_success">Yay! Go next</string>
+    <string name="audition_error">Ops( Try again!</string>
+    <string name="audition_start_speaking">Start speaking…</string>
+    <string name="audition_your_result">Your result</string>
+</resources>

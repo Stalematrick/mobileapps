@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google">Google</string>
+    <string name="first_name">First Name</string>
+    <string name="your_first_name">Your First Name</string>
+    <string name="last_name">Last name</string>
+    <string name="your_last_name">Your Last name</string>
+    <string name="email_address">Email Address</string>
+    <string name="email">Email</string>
+    <string name="button_continue">Continue</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_email">Enter Email</string>
+
+    <string name="login">Login</string>
+    <string name="sign_in_success">Successfully authorized!</string>
+    <string name="sign_in_logo_title">For free, join now and start learning</string>
+    <string name="sign_in_forgot_password">Forgot Password</string>
+    <string name="sign_in_not_you_member_before_annotation">Not you member?</string>
+    <string name="sign_in_not_you_member_annotation">Signup</string>
+    <string name="sign_in_use_google_before_annotation">You can use</string>
+    <string name="sign_in_use_google_annotation">Google</string>
+    <string name="sign_in_use_google_after_annotation">for sign in</string>
+
+    <string name="signup">Signup</string>
+    <string name="signup_create_account">Create an Account</string>
+    <string name="signup_already_you_member_before_annotation">Already you member?</string>
+    <string name="signup_already_you_member_after_annotation">Login</string>
+    <string name="signup_choose_password">Choose a Password</string>
+    <string name="signup_waiting_for_email_confirm">Waiting for Email Confirmation</string>
+    <string name="signup_email_confirm_description">We just need one small favor from you - please confirm your email address to continue using Language App and start learning!</string>
+
+    <string name="password_recovery">Password Recovery</string>
+    <string name="password_recovery_reset_password">Reset Password</string>
+    <string name="password_recovery_check_email">Check Your Email</string>
+    <string name="password_recovery_check_email_description">We\'ve sent instructions on how to reset your password to %1$s</string>
+    <string name="password_recovery_success">Password changed!</string>
+    <string name="password_recovery_success_description">Your password has been changed successfully!</string>
+
+    <string name="error_check_your_creds">Error. Check your credentials!</string>
+    <string name="error_empty_field">This field is required</string>
+    <string name="error_invalid_email">Invalid email format</string>
+    <string name="error_password_to_short">Password to short (min length is 6)</string>
+    <string name="error_password_mismatch">Passwords mismatch</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="guess_animal_title">Угадай животное</string>
+    <string name="guess_animal_input_label">Напишите кто на картинке</string>
+    <string name="guess_animal_input_placeholder">Напишите свой ответ сюда</string>
+    <string name="guess_animal_success">Молодец! Это правильный ответ!</string>
+    <string name="guess_animal_error_formatted">Неправильный ответ :(\Это: %1$s</string>
+</resources>

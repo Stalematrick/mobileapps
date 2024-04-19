@@ -1,0 +1,33 @@
+#!/bin/sh
+echo "Detekt: Running"
+
+JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
+export JAVA_HOME
+
+OUTPUT="/tmp/analysis-result"
+./gradlew detekt --daemon > ${OUTPUT}
+EXIT_CODE=$?
+if [ ${EXIT_CODE} -ne 0 ]; then
+    cat ${OUTPUT}
+    rm ${OUTPUT}
+    echo "Detekt: Failed!"
+    exit ${EXIT_CODE}
+else
+    rm ${OUTPUT}
+    echo "Detekt: Success!"
+fi
+
+echo "Test DI graph: Running"
+
+OUTPUT="/tmp/tests-result"
+./gradlew :app:testDebugUnitTest -i --tests DependencyGraphTest > ${OUTPUT}
+EXIT_CODE=$?
+if [ ${EXIT_CODE} -ne 0 ]; then
+    cat ${OUTPUT} | grep -E " > |BUILD"
+    rm ${OUTPUT}
+    echo "Test DI graph: Failed!"
+    exit ${EXIT_CODE}
+else
+    rm ${OUTPUT}
+    echo "Test DI graph: Success!"
+fi

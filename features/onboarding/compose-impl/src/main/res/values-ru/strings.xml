@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_conversation_based_learning_title">Уверенность в своих словах</string>
+    <string name="onboarding_conversation_based_learning_description">При обучении на основе разговора вы будете говорить с первого урока</string>
+    <string name="onboarding_anytime_learning_title">Учитесь когда вам удобно</string>
+    <string name="onboarding_anytime_learning_description">Выработайте привычку учиться и сделайте это частью своей повседневной жизни</string>
+    <string name="onboarding_variety_learning_title">Уроки, которые вам нужно усвоить</string>
+    <string name="onboarding_variety_learning_description">Использование различных стилей обучения для изучения и сохранения знаний</string>
+    <string name="onboarding_next">Далее</string>
+    <string name="onboarding_more">Больше</string>
+    <string name="onboarding_log_in">Войти</string>
+    <string name="onboarding_skip">Пропустить</string>
+</resources>

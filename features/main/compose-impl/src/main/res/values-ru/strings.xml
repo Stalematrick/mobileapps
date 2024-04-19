@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_app_bar_title">Привет!</string>
+    <string name="main_app_bar_title_named">Привет, %1$s</string>
+    <string name="main_app_bar_description">Готовы познавать новое сегодня?</string>
+
+    <string name="main_top_users">Список лидеров</string>
+    <string name="main_available_exercises">Доступные упражнения</string>
+    <string name="main_guess_the_animal">Угадай животное</string>
+    <string name="main_word_practice">Словесная практика</string>
+    <string name="main_audition">Прослушивание</string>
+    <string name="main_game">Игра</string>
+
+    <string name="main_points_formatted">%1$.1f очков</string>
+</resources>

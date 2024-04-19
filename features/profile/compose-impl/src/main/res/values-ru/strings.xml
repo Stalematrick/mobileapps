@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_title">Профиль</string>
+    <string name="profile_switch_to_dark">Включить темную тему</string>
+    <string name="profile_switch_to_light">Включить светлую тему</string>
+    <string name="profile_change_mother_language">Изменить родной язык</string>
+    <string name="profile_change_image">Изменить фото профиля</string>
+    <string name="profile_change_logout">Выйти</string>
+    <string name="profile_change_image_dialog_title">Откуда вы хотите выбрать фото</string>
+    <string name="profile_change_image_camera">Сделать фото</string>
+    <string name="profile_change_image_gallery">Выбрать из галлереи</string>
+
+    <string name="language_select_title">Выбор языка</string>
+    <string name="language_select_what_is_your_mother_language">Какой ваш родной язык?</string>
+    <string name="language_select_russian">Русский</string>
+    <string name="language_select_english">Английский</string>
+
+    <string name="avatar_crop_title">" Ваше фото великолепно!"</string>
+    <string name="avatar_crop_description">Просто измените размер этой фотографии, чтобы она поместилась в квадрат</string>
+    <string name="avatar_crop_save_button">Сохранить</string>
+
+</resources>

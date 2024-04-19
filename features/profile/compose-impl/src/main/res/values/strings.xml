@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_title">Profile</string>
+    <string name="profile_switch_to_dark">Switch to Dark</string>
+    <string name="profile_switch_to_light">Switch to Light</string>
+    <string name="profile_change_mother_language">Change mother language</string>
+    <string name="profile_change_image">Change your image</string>
+    <string name="profile_change_logout">Logout</string>
+    <string name="profile_change_image_dialog_title">Where do you want to select the photo from?</string>
+    <string name="profile_change_image_camera">Take Photo</string>
+    <string name="profile_change_image_gallery">Choose from Gallery</string>
+
+    <string name="language_select_title">Language select</string>
+    <string name="language_select_what_is_your_mother_language">What is your mother language?</string>
+    <string name="language_select_russian">Russian</string>
+    <string name="language_select_english">English</string>
+    
+    <string name="avatar_crop_title">Your photo is gorgeous!</string>
+    <string name="avatar_crop_description">Just resize that photo for fit in square</string>
+    <string name="avatar_crop_save_button">Use that image</string>
+</resources>

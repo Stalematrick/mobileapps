@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_go_to_profile">Перейти в профиль</string>
+
+    <string name="app_name">Language App</string>
+    <string name="go_back_icon_content_description">Вернуться назад</string>
+    <string name="toggle_password_visibility">Переключить видимость пароля</string>
+    <string name="finish">Завершить</string>
+    <string name="finish_positive">Завершить!</string>
+    <string name="ok_positive">OK!</string>
+    <string name="full_name_formatted">%2$s %1$s</string>
+    <string name="choose">Выбрать</string>
+    <string name="profile_name_unknown">Неизвестен</string>
+    <string name="check">Проверить</string>
+    <string name="next">Дальше</string>
+    <string name="try_again">Попробовать снова</string>
+
+    <string name="error_smth_went_wrong">Что-то пошло не так :(</string>
+    <string name="error_smth_went_wrong_description">Пожалуйста, попробуйте позже</string>
+</resources>

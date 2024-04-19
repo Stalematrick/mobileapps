@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audition_title">Прослушивание</string>
+    <string name="audition_description">Пожалуйста, зажмите кнопку и произнесите это слово. Наш сервис проверит ваше произношение</string>
+    <string name="audition_check_speech">Проверьте мою речь</string>
+    <string name="audition_listening">Говорите…</string>
+    <string name="audition_success">Ура! Далее</string>
+    <string name="audition_error">Упс( Попробовать снова!</string>
+    <string name="audition_start_speaking">Начните говорить…</string>
+    <string name="audition_your_result">Ваш результат</string>
+</resources>

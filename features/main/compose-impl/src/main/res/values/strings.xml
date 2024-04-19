@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_app_bar_title">Hello!</string>
+    <string name="main_app_bar_title_named">Hello, %1$s</string>
+    <string name="main_app_bar_description">Are you ready for learning today?</string>
+
+    <string name="main_top_users">Top users</string>
+    <string name="main_available_exercises">Available exercises</string>
+    <string name="main_guess_the_animal">Guess the animal</string>
+    <string name="main_word_practice">Word practice</string>
+    <string name="main_audition">Audition</string>
+    <string name="main_game">Game</string>
+
+    <string name="main_points_formatted">%1$.1f points</string>
+</resources>

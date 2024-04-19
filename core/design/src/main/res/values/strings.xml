@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_go_to_profile">Go to profile</string>
+
+    <string name="app_name">Language App</string>
+    <string name="go_back_icon_content_description">Go back</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="finish">Finish</string>
+    <string name="finish_positive">Finish!</string>
+    <string name="ok_positive">OK!</string>
+    <string name="full_name_formatted">%1$s %2$s</string>
+    <string name="choose">Choose</string>
+    <string name="profile_name_unknown">Unknown</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="try_again">Try again</string>
+
+    <string name="error_smth_went_wrong">Something went wrong :(</string>
+    <string name="error_smth_went_wrong_description">Please try again later</string>
+</resources>
